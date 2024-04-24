@@ -1,2 +1,5 @@
 # Pycharm files
 .idea
+
+# The folder containing the downloaded models
+models
